@@ -1,6 +1,3 @@
-exports.listsurah = () => {
-  return `*List Surah*
-
 1. Al Fatihah (Pembuka)
 2. Al Baqarah (Sapi Betina)
 3. Ali Imran (Keluarga Imran)
@@ -114,5 +111,3 @@ exports.listsurah = () => {
 112. Al-Ikhlas (Ikhlas)
 113. Al-Falaq (Waktu Subuh)
 114.An-Nas (Umat Manusia)
-`;
-};
